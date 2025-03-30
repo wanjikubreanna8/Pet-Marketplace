@@ -1,0 +1,60 @@
+{
+  "pets": [
+    {
+      "id": "1",
+      "name": "Buddy",
+      "species": "Dog",
+      "price": 250,
+      "description": "Friendly golden retriever, 2 years old, loves to play fetch.",
+      "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": "2",
+      "name": "Whiskers",
+      "species": "Cat",
+      "price": 150,
+      "description": "Calico cat, 1 year old, very affectionate and loves to cuddle.",
+      "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": "5343",
+      "name": "chloe",
+      "species": "Dog",
+      "price": 12000,
+      "description": "brown and fluffy",
+      "image": "https://i.pinimg.com/736x/b5/cf/15/b5cf15ab134963d22b7809d0732fc7de.jpg"
+    },
+    {
+      "id": "e746",
+      "name": "chloe",
+      "species": "Dog",
+      "price": 120,
+      "description": "fluffy and brown",
+      "image": "https://i.pinimg.com/736x/b5/cf/15/b5cf15ab134963d22b7809d0732fc7de.jpg"
+    },
+    {
+      "id": "faa7",
+      "name": "chloe",
+      "species": "Dog",
+      "price": 120,
+      "description": "brown",
+      "image": "https://i.pinimg.com/736x/b5/cf/15/b5cf15ab134963d22b7809d0732fc7de.jpg"
+    },
+    {
+      "id": "83b1",
+      "name": "lila",
+      "species": "Dog",
+      "price": 130,
+      "description": "fluffy",
+      "image": "https://i.pinimg.com/736x/b5/cf/15/b5cf15ab134963d22b7809d0732fc7de.jpg"
+    },
+    {
+      "id": "5355",
+      "name": "lila",
+      "species": "Dog",
+      "price": 130,
+      "description": "fluffy",
+      "image": "https://i.pinimg.com/736x/b5/cf/15/b5cf15ab134963d22b7809d0732fc7de.jpg"
+    }
+  ]
+}
