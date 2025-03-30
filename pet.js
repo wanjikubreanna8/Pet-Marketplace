@@ -1,4 +1,4 @@
-const apiUrl = 'http://localhost:3000/pets';  // Replace with your backend URL
+const apiUrl = 'https://my-app-backend-n32h.onrender.com/api/pets';
 
 let pets = [];  // Array to hold the fetched pets
 
